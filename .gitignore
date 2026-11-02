@@ -1,0 +1,12 @@
+# Never commit private keys or credentials
+*.pem
+*.ppk
+*.key
+.aws/
+credentials
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
